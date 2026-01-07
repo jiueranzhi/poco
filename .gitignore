@@ -174,3 +174,5 @@ node_modules
 # Debug files #
 ##############
 *.core
+mutex_demo
+mutex_demo_intense
