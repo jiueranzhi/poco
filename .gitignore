@@ -178,3 +178,6 @@ mutex_demo
 mutex_demo_intense
 logger_demo_log
 quick_log
+
+quick_threadpool
+threadpool_demo
